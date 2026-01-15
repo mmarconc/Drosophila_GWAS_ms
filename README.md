@@ -1,0 +1,1 @@
+Scripts and datafiles to perform the GWASs and the Trascritpome-to-phenotype association tests as in (Preprint: doi: https://doi.org/10.64898/2025.12.01.691102). All relevant informations are in the Manuscript, including genome builds, sample SRA IDs and the link to the original DGRP files.  
